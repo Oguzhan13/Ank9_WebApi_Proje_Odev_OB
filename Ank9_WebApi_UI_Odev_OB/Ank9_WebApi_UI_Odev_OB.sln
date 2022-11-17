@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ank9_WebApi_UI_Odev_OB", "Ank9_WebApi_UI_Odev_OB\Ank9_WebApi_UI_Odev_OB.csproj", "{55561814-F21C-4B70-9F24-3546701F707E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55561814-F21C-4B70-9F24-3546701F707E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55561814-F21C-4B70-9F24-3546701F707E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55561814-F21C-4B70-9F24-3546701F707E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55561814-F21C-4B70-9F24-3546701F707E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3915F475-4EDE-4530-8133-C29E1800B3A1}
+	EndGlobalSection
+EndGlobal
